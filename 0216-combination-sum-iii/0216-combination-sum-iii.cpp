@@ -9,9 +9,8 @@ public:
             }
             return ;
         }
-        
+
         if(i==10) return;
-        if(k<0) return;
         if(sum>n) return ;
 
         
