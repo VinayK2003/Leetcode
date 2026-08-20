@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/VinayK2003/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/VinayK2003/Leetcode/tree/master/0137-single-number-ii) |
 | [0204-count-primes](https://github.com/VinayK2003/Leetcode/tree/master/0204-count-primes) |
+| [0239-sliding-window-maximum](https://github.com/VinayK2003/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/VinayK2003/Leetcode/tree/master/0260-single-number-iii) |
 | [0496-next-greater-element-i](https://github.com/VinayK2003/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VinayK2003/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/VinayK2003/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/VinayK2003/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/VinayK2003/Leetcode/tree/master/0239-sliding-window-maximum) |
 ## String
 |  |
 | ------- |
@@ -126,8 +128,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/VinayK2003/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/VinayK2003/Leetcode/tree/master/0239-sliding-window-maximum) |
 ## Matrix
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/VinayK2003/Leetcode/tree/master/0085-maximal-rectangle) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/VinayK2003/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/VinayK2003/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/VinayK2003/Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
