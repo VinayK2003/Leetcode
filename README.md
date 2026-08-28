@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/VinayK2003/Leetcode/tree/master/0260-single-number-iii) |
 | [0496-next-greater-element-i](https://github.com/VinayK2003/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VinayK2003/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0621-task-scheduler](https://github.com/VinayK2003/Leetcode/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/VinayK2003/Leetcode/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/VinayK2003/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/VinayK2003/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/VinayK2003/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/VinayK2003/Leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/VinayK2003/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/VinayK2003/Leetcode/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/VinayK2003/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/VinayK2003/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/VinayK2003/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/VinayK2003/Leetcode/tree/master/0402-remove-k-digits) |
+| [0621-task-scheduler](https://github.com/VinayK2003/Leetcode/tree/master/0621-task-scheduler) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/VinayK2003/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/VinayK2003/Leetcode/tree/master/0621-task-scheduler) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -209,5 +213,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/VinayK2003/Leetcode/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/VinayK2003/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+## Sorting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/VinayK2003/Leetcode/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
