@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/VinayK2003/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/VinayK2003/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VinayK2003/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/VinayK2003/Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/VinayK2003/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2104-sum-of-subarray-ranges](https://github.com/VinayK2003/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Backtracking
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/VinayK2003/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/VinayK2003/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VinayK2003/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/VinayK2003/Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VinayK2003/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Monotonic Stack
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/VinayK2003/Leetcode/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/VinayK2003/Leetcode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/VinayK2003/Leetcode/tree/master/0846-hand-of-straights) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/VinayK2003/Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -223,4 +226,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/VinayK2003/Leetcode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/VinayK2003/Leetcode/tree/master/0846-hand-of-straights) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/VinayK2003/Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 <!---LeetCode Topics End-->
