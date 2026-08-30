@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/VinayK2003/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/VinayK2003/Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/VinayK2003/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1710-maximum-units-on-a-truck](https://github.com/VinayK2003/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2104-sum-of-subarray-ranges](https://github.com/VinayK2003/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/VinayK2003/Leetcode/tree/master/3478-choose-k-elements-with-maximum-sum) |
 ## Backtracking
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/VinayK2003/Leetcode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/VinayK2003/Leetcode/tree/master/0846-hand-of-straights) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/VinayK2003/Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1710-maximum-units-on-a-truck](https://github.com/VinayK2003/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/VinayK2003/Leetcode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/VinayK2003/Leetcode/tree/master/0846-hand-of-straights) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/VinayK2003/Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1710-maximum-units-on-a-truck](https://github.com/VinayK2003/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/VinayK2003/Leetcode/tree/master/3478-choose-k-elements-with-maximum-sum) |
 ## Tree
 |  |
