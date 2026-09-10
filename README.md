@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/VinayK2003/Leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/VinayK2003/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/VinayK2003/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0135-candy](https://github.com/VinayK2003/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/VinayK2003/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/VinayK2003/Leetcode/tree/master/0137-single-number-ii) |
 | [0204-count-primes](https://github.com/VinayK2003/Leetcode/tree/master/0204-count-primes) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/VinayK2003/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/VinayK2003/Leetcode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/VinayK2003/Leetcode/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/VinayK2003/Leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/VinayK2003/Leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/VinayK2003/Leetcode/tree/master/0621-task-scheduler) |
