@@ -5,6 +5,9 @@ public:
         vector<vector<int>> vis(n, vector<int>(m,0));
         vector<vector<int>>dir={{0,1},{0,-1},{1,0},{-1,0}};
         queue<pair<int,int>>q;
+        // Idea is simple
+        // only regions connected to boundary will not get converted 
+        // feeding the queue with boundart'O' positions
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 if(i==0 ||j==0 ||i==n-1|| j==m-1){
@@ -28,6 +31,8 @@ public:
                 }
             }
         }
+
+        // If any 'O' position is left unvisited, then it shall get converted 
         for(int i=0; i<n; i++){
             for(int j=0; j<m; j++){
                 if(board[i][j]=='O' && vis[i][j]==0)
