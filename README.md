@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/VinayK2003/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/VinayK2003/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/VinayK2003/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/VinayK2003/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/VinayK2003/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/VinayK2003/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/VinayK2003/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/VinayK2003/Leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/VinayK2003/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/VinayK2003/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0931-minimum-falling-path-sum](https://github.com/VinayK2003/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/VinayK2003/Leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/VinayK2003/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/VinayK2003/Leetcode/tree/master/0733-flood-fill) |
+| [0931-minimum-falling-path-sum](https://github.com/VinayK2003/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1020-number-of-enclaves](https://github.com/VinayK2003/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Sliding Window
 |  |
