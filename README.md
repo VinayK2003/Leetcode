@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/VinayK2003/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VinayK2003/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VinayK2003/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0120-triangle](https://github.com/VinayK2003/Leetcode/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/VinayK2003/Leetcode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/VinayK2003/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/VinayK2003/Leetcode/tree/master/0136-single-number) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/VinayK2003/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/VinayK2003/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/VinayK2003/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0120-triangle](https://github.com/VinayK2003/Leetcode/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/VinayK2003/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/VinayK2003/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/VinayK2003/Leetcode/tree/master/0542-01-matrix) |
