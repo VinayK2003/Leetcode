@@ -2,8 +2,9 @@ class Solution {
 public:
 
     int func(int i,int j, int n,int m,vector<vector<int>>& dp, vector<vector<int>>& grid){
-
+        // Base cases
         if(i==n-1 && j==m-1) return grid[i][j];
+        // you can take int_Max as well, i just took a long number here
         if(i>n-1 || j>m-1) return 100000;
         if(dp[i][j]!=-1) return dp[i][j];
 
